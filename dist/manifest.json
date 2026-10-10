@@ -1,0 +1,22 @@
+{
+  "short_name": "Seminario UNLaM",
+  "name": "Seminario de Textos UNLaM - Ingreso Medicina",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#166534",
+  "theme_color": "#166534",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "es-AR"
+}
